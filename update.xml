@@ -2,10 +2,11 @@
 <item>
   <version>1.1.0.0</version>
   <files>
-    <file url="https://raw.githubusercontent.com/awafii/wesam/refs/heads/main/Alwesam.exe" name="Alwesam.exe" />
+    <file name="Alwesam.exe" url="https://raw.githubusercontent.com/awafii/wesam/refs/heads/main/Alwesam.exe" />
     <file url="https://raw.githubusercontent.com/awafii/wesam/refs/heads/main/Alwesam.pdb" name="Alwesam.pdb" />
   </files>
 
 </item>
+
 
 
