@@ -2,7 +2,8 @@
 <item>
   <version>1.1.0.0</version>
   <files>
-    <file url="https://yourserver.com/MyApp.exe" path="MyApp.exe" />
-    <file url="https://yourserver.com/MyLib.dll" path="MyLib.dll" />
+    <file url="https://raw.githubusercontent.com/awafii/wesam/refs/heads/main/Alwesam.exe" path="Alwesam.exe" />
+    <file url="https://raw.githubusercontent.com/awafii/wesam/refs/heads/main/Alwesam.pdb" path="Alwesam.pdb" />
   </files>
+
 </item>
